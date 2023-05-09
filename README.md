@@ -8,4 +8,10 @@ Assumptions:
 2. You want to retire only based on your investments. Social security, for example, is not included in the calculations.
 3. You don't want to sell the house at any point, and you plan to retire in that house, hence the house is not counted towards assets. The scenario of down-sizing at some point and retiring earlier is not supported.
 4. Inflation is not taken into account when calculating the enough number, but that is ok, as long as investmentReturn is adjusted accordingly.
-5. Wage growth or life-style inflation are not included in the calculation either. Obviously, if there is a chance to increase wage significantly in future, this estimate would be inaccurate. Same for a significant change in yearly expenses.
+5. Wage growth or lifestyle inflation are not included in the calculation either. Obviously, if there is a chance to increase wage significantly in future, this estimate would be inaccurate. Same for a significant change in yearly expenses.
+
+Guideline:
+- This tool calculates the number of years it takes to retire after buying a house with a mortgage.
+- There are three main classes: Buyer, Economy and House, each encompassing the appropriate information and methods.
+- Open the notebook and enter with the desired information in the cell. Values provided are for demonstration only.
+- Feel free to simulate various scenarios, and see the impact on the number of years it takes to retire when buying a house.
